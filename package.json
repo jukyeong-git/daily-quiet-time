@@ -1,0 +1,1 @@
+{"name":"daily-quiet-time","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"tsc --noEmit && vite build","preview":"vite preview --host 127.0.0.1"},"devDependencies":{"typescript":"~5.8.3","vite":"^6.3.5"},"dependencies":{"lucide-static":"^1.73.0"}}

@@ -1,0 +1,8 @@
+.agents/
+.codex/
+.git/
+.DS_Store
+AGENTS.md
+skills-lock.json
+node_modules/
+dist/
